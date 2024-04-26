@@ -4,7 +4,7 @@
   "description": "The #1 Umax app. Just Snap & Transform your face with looks maxing.",
   "main": "src/index.js",
   "repository": "git@github.com:alexnitu88/looksmaxing-landing-page.git",
-  "author": "Prodigy AI <team@ailooksmaxing.app>",
+  "author": "Prodigy AI <team@outfitrating.com>",
   "license": "MIT",
   "scripts": {
     "start": "npm run-script clean:project && webpack --env config=dev --progress --profile --color && concurrently \"webpack-dev-server --env config=dev\" \"bundle exec jekyll serve\"",
